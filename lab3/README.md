@@ -12,7 +12,7 @@
 
 ## Deployment URL
 
-**Render URL:** https://saisharanyalab3bdf.onrender.com/book 
+**Render URL:** https://saisharanyalab3bdf.onrender.com/books 
 
 ## Project Description
 
