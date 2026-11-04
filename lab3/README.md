@@ -64,7 +64,7 @@ git clone https://github.com/Saisharanya14/saisharanyalab3BDF.git
 ### 2. Open the project folder
 
 ```bash
-cd saisharanyalab3BDF
+cd lab3
 ```
 
 ### 3. Install dependencies
